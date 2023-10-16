@@ -1,0 +1,17 @@
+.hover-text{
+    display: none;
+    transition: 0.3s ;
+    position:absolute;
+    bottom:10px;
+    background-color: #307cef;
+    width: 100%;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+}
+.box:hover .hover-text {
+    display: block;
+}

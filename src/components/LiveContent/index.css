@@ -1,0 +1,23 @@
+/* .ant-modal-content{
+    width:"600px";
+    padding:0 !important;
+} */
+.modalcss {
+  width: "600px";
+  padding: 0 !important;
+}
+
+.modalcss .ant-modal-content {
+  padding: 0 !important;
+}
+.playVideo{
+    position: relative;
+}
+.closeIcon{
+    font-size: 1.5em;
+    top: 20px;
+    right: 20px;
+    position: absolute;
+    background-color: black;
+    color: #999999;
+}

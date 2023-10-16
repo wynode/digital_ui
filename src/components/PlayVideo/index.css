@@ -1,0 +1,7 @@
+.video-js .vjs-duration, .vjs-no-flex .vjs-duration {
+    display: inline-block;
+  }
+  .video-js .vjs-current-time, .vjs-no-flex .vjs-current-time {
+    display: inline-block;
+  
+  }
