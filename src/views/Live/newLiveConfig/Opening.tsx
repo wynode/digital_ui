@@ -150,8 +150,6 @@ const ParentComponent: React.FC = () => {
   return (
     <div>
       <div className="tabs-top-desc">
-        <span>开场白说明：</span>
-        <p>详情</p>
       </div>
       <div style={{ marginBottom: "20px" }}>
         <Button type="primary" onClick={handleAddConfig}>
